@@ -32,7 +32,7 @@ The goal is to answer student questions automatically by analyzing scraped data 
   - An `answer` string  
   - A `links` array of related Discourse posts  
 - Compatible with [Promptfoo](https://github.com/promptfoo/promptfoo) for evaluation  
-- Deployed on Vercel with < 30 s response time  
+- Deployed on Vercel 
 
 ---
 
