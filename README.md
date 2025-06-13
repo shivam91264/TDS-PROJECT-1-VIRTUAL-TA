@@ -54,5 +54,9 @@ TDS-PROJECT-1-VIRTUAL-TA/
 ├── test.yaml                     # Promptfoo test config
 └── vercel.json                   # Vercel deployment config
 
-🧪 Test & Evaluation
-Test the project using the provided test.yaml: ```npx promptfoo eval -c test.yaml --no-cache ```
+## 🧪 Test & Evaluation
+
+Test the project using the provided `test.yaml`:
+
+```bash
+npx promptfoo eval -c test.yaml --no-cache
