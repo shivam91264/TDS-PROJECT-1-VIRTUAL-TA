@@ -56,7 +56,7 @@ TDS-PROJECT-1-VIRTUAL-TA/
 
 ## 🧪 Test & Evaluation
 
-Test the project using the provided `test.yaml`:
-```bash
-npx promptfoo eval -c test.yaml --no-cache
-```
+Test the project using the provided `test.yaml`
+
+Test.yaml testing command :-- npx promptfoo eval -c test.yaml --no-cache
+
