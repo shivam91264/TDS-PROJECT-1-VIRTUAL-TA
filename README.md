@@ -60,4 +60,5 @@ Test the project using the provided `test.yaml`:
 
 ```bash
 npx promptfoo eval -c test.yaml --no-cache
+```
 
